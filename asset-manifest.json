@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/nasatest/static/css/main.b981a9c4.css",
-    "main.js": "/nasatest/static/js/main.083d887d.js",
-    "static/js/787.5ab9c433.chunk.js": "/nasatest/static/js/787.5ab9c433.chunk.js",
-    "static/media/walle.png": "/nasatest/static/media/walle.6abe908d9e0a06091447.png",
-    "static/media/AvenirNextLTPro-Regular.ttf": "/nasatest/static/media/AvenirNextLTPro-Regular.3f6c730b0f59f3838d71.ttf",
-    "static/media/AvenirNextLTPro-Bold.ttf": "/nasatest/static/media/AvenirNextLTPro-Bold.3c6bf152ce9d23ec3657.ttf",
-    "static/media/AvenirNextLTPro-Demi.ttf": "/nasatest/static/media/AvenirNextLTPro-Demi.fb429fb77c296de90537.ttf",
-    "index.html": "/nasatest/index.html",
-    "main.b981a9c4.css.map": "/nasatest/static/css/main.b981a9c4.css.map",
-    "main.083d887d.js.map": "/nasatest/static/js/main.083d887d.js.map",
-    "787.5ab9c433.chunk.js.map": "/nasatest/static/js/787.5ab9c433.chunk.js.map"
+    "main.css": "/elias-test.nasa/static/css/main.b981a9c4.css",
+    "main.js": "/elias-test.nasa/static/js/main.921faeaa.js",
+    "static/js/787.5ab9c433.chunk.js": "/elias-test.nasa/static/js/787.5ab9c433.chunk.js",
+    "static/media/walle.png": "/elias-test.nasa/static/media/walle.6abe908d9e0a06091447.png",
+    "static/media/AvenirNextLTPro-Regular.ttf": "/elias-test.nasa/static/media/AvenirNextLTPro-Regular.3f6c730b0f59f3838d71.ttf",
+    "static/media/AvenirNextLTPro-Bold.ttf": "/elias-test.nasa/static/media/AvenirNextLTPro-Bold.3c6bf152ce9d23ec3657.ttf",
+    "static/media/AvenirNextLTPro-Demi.ttf": "/elias-test.nasa/static/media/AvenirNextLTPro-Demi.fb429fb77c296de90537.ttf",
+    "index.html": "/elias-test.nasa/index.html",
+    "main.b981a9c4.css.map": "/elias-test.nasa/static/css/main.b981a9c4.css.map",
+    "main.921faeaa.js.map": "/elias-test.nasa/static/js/main.921faeaa.js.map",
+    "787.5ab9c433.chunk.js.map": "/elias-test.nasa/static/js/787.5ab9c433.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b981a9c4.css",
-    "static/js/main.083d887d.js"
+    "static/js/main.921faeaa.js"
   ]
 }
