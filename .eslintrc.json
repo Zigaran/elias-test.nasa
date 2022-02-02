@@ -41,6 +41,9 @@
     "no-shadow": "off",
     "no-unused-vars": "off",
     "import/no-named-as-default": 0,
-    "import/prefer-default-export": 0
+    "import/prefer-default-export": 0,
+    "react/require-default-props": 0,
+    "no-console": 0,
+    "react-hooks/exhaustive-deps": 0
   }
 }

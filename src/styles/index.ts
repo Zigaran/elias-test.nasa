@@ -8,7 +8,6 @@ import { Theme } from '../ui';
 const GlobalStyles = createGlobalStyle`
   html {
     height: 100%;
-    overflow: hidden;
   }
 
   body {

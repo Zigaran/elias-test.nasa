@@ -1,8 +1,18 @@
 import styled from 'styled-components';
 
-export const SearcherBody = styled.div`
-  background-color: blue;
-  height: 300px;
-  width: 300px;
-  align-self: center;
+export const Container = styled.div`
+  padding: 50px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+`;
+
+export const PaginatorContainer = styled.div`
+  position: fixed;
+  bottom: 20px;
+`;
+
+export const TextMessage = styled.h1`
+  text-align: center;
+  max-width: 500px;
 `;

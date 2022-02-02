@@ -1,0 +1,20 @@
+.dropdown-menu {
+  height: 210px;
+  overflow-y: scroll;
+  width: 200px;
+}
+
+.dropdown-toggle {
+  min-width: 200px;
+  min-height: 40px;
+}
+
+.dropdown-toggle::after {
+  position: absolute;
+  right: 13px;
+  top: 17px;
+}
+
+.css-1y7coo4-MuiButtonBase-root-MuiPaginationItem-root {
+  color: white !important;
+}
