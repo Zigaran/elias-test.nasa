@@ -12,10 +12,11 @@ const App = (): JSX.Element => {
       <ModalContextProvider>
         <GlobalStyles />
         <FilterModal />
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
           <Routes>
             <Route element={<WelcomePage />} path="/" />
             <Route element={<SearcherPage />} path="/searcher" />
+            <Route element={<div>404 Not found</div>} path="*" />
           </Routes>
         </BrowserRouter>
       </ModalContextProvider>
