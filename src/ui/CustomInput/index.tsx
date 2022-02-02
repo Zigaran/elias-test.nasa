@@ -7,12 +7,12 @@ const CustomInput = () => {
 
   const handleOnChange = (e: any) => {
     if (!e.target.value.match(/^[0-9]+$/) || parseInt(e.target.value, 10) > dataStore.selectedRover?.max_sol!) {
-      dataStore.setWrongDate(true);
+      return dataStore.setWrongDate(true);
     }
 
     dataStore.setWrongDate(false);
 
-    dataStore.setSelectedDate(e.target.value);
+    return dataStore.setSelectedDate(e.target.value);
   };
 
   return (
