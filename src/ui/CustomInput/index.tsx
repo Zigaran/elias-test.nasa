@@ -10,9 +10,7 @@ const CustomInput = () => {
       dataStore.setWrongDate(true);
     }
 
-    if (e.target.value === '') {
-      dataStore.setWrongDate(false);
-    }
+    dataStore.setWrongDate(false);
 
     dataStore.setSelectedDate(e.target.value);
   };
